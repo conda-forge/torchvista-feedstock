@@ -145,6 +145,3 @@ Feedstock Maintainers
 
 * [@sachinhosmani](https://github.com/sachinhosmani/)
 
-
-<!-- dummy commit to enable rerendering -->
-
