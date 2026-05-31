@@ -1,5 +1,5 @@
 {% set name = "torchvista" %}
-{% set version = "0.2.11" %}
+{% set version = "0.2.12" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/torchvista-{{ version }}.tar.gz
-  sha256: 39a79ed47746a334dcfb5b695e85246c99d9ba96b88eaaa70aca29d9f8afa1c6
+  sha256: 506db45346e844da79fb7ca690b0f7bb9bd77dbb76aa75c0920c9d51773e82a9
 
 build:
   noarch: python
